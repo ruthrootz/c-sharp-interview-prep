@@ -14,6 +14,9 @@
     - [ ] ref vs. out
     - [ ] what are extension metheods?
     - [ ] what are generics?
+    - [ ] list the accessibility modifiers
+    - [ ] what is a virtual method?
+    - [ ] value vs. reference types
     - [ ] does C# support multiple inheretence? if not, what's a work-around for that?
     - [ ] what is boxing and unboxing?
     - [ ] what are partial classes?
@@ -21,19 +24,25 @@
     - [ ] late vs. early binding
     - [ ] what are indexers?
     - [ ] == vs. Equals()
-    - [ ] how does overloading work?
+    - [ ] is vs. as opperators
+    - [ ] what are different ways a method can be overloaded?
     - [ ] what is reflection?
     - [ ] const vs. readonly
     - [ ] String vs. StringBuilder
     - [ ] IEnumerable vs. IQueryable
+    - [ ] what is LINQ?
     - [ ] what are accessors?
+    - [ ] what are indexers?
     - [ ] dispose vs. finalize
     - [ ] what are delegates?
+    - [ ] what is a multicast delegate?
     - [ ] what is constructor chaining?
     - [ ] Array.CopyTo() vs. Array.Clone()
     - [ ] throw exception vs. throw clause
+    - [ ] what is an object pool in .NET?
+    - [ ] what is serialization?
     - [ ] describe the singleton design pattern
     - [ ] describe the MVC pattern
-    - [ ] describe the design pattern we use at FSL
+    - [ ] describe the design pattern we use at work
 
 - [ ] try a few HackerRank problems
