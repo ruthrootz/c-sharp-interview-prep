@@ -12,19 +12,19 @@
     - [ ] abstract vs. interface
     - [ ] struct vs. class
     - [ ] ref vs. out
-    - [ ] what are extension metheods?
+    - [ ] what are extension methods?
     - [ ] what are generics?
     - [ ] list the accessibility modifiers
     - [ ] what is a virtual method?
     - [ ] value vs. reference types
-    - [ ] does C# support multiple inheretence? if not, what's a work-around for that?
+    - [ ] does C# support multiple inheritancevv? if not, what's a work-around for that?
     - [ ] what is boxing and unboxing?
     - [ ] what are partial classes?
     - [ ] what are sealed classes?
     - [ ] late vs. early binding
     - [ ] what are indexers?
     - [ ] == vs. Equals()
-    - [ ] is vs. as opperators
+    - [ ] is vs. as operators
     - [ ] what are different ways a method can be overloaded?
     - [ ] what is reflection?
     - [ ] const vs. readonly
