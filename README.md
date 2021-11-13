@@ -7,10 +7,14 @@
 - [ ] explain the concepts in writing
 
     - [ ] what is CLR?
+        - it manages running the code and does garbage collection, etc.
     - [ ] managed vs. unmanaged code
+        - managed code is code that is managed by the CLR during runtime
     - [ ] abstract vs. interface
     - [ ] struct vs. class
     - [ ] ref vs. out
+        - ref designates an argument as a reference value, so the object doesn't have to be retunred, it's changed in the function
+        - out takes a variable (that doesn't have to be instantiated) and assigns whatever the return value is to that variable
     - [ ] what are extension methods?
     - [ ] what are generics?
     - [ ] list the accessibility modifiers
