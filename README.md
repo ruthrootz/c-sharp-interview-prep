@@ -6,6 +6,11 @@
 - [ ] go through more [interview questions](https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions)
 - [ ] explain the concepts in writing
 
+    - [ ] four OOP principles
+        - [ ] encapsulation
+        - [ ] polymorphism
+        - [ ] abstraction
+        - [ ] inheritence
     - [ ] what is CLR?
         - it manages running the code and does garbage collection, etc.
     - [ ] managed vs. unmanaged code
