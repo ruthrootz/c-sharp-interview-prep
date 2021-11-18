@@ -22,7 +22,7 @@
         - unmanaged code is not (duh)
     - [ ] abstract vs. interface
     - [ ] struct vs. class
-    - [ ] ref vs. out
+    - [x] ref vs. out
         - ref designates an argument as a reference value, so the object doesn't have to be returned, it's changed in the function
         - out takes a variable (that doesn't have to be instantiated) and assigns whatever the return value is to that variable
     - [ ] what are extension methods?
