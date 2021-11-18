@@ -15,10 +15,11 @@
         - child classes inherit from Vehicle and define specific vehicle types (Truck, Car, Motorcycle, etc.)
             - each child class has additional fields, including CarType enum for cars, TowingCapacity for trucks, etc.
             - the constructor for each child class defines a default NumberOfWheels
-    - [ ] what is CLR?
+    - [x] what is CLR?
         - it manages running the code and does garbage collection, etc.
-    - [ ] managed vs. unmanaged code
+    - [x] managed vs. unmanaged code
         - managed code is code that is managed by the CLR during runtime
+        - unmanaged code is not (duh)
     - [ ] abstract vs. interface
     - [ ] struct vs. class
     - [ ] ref vs. out
