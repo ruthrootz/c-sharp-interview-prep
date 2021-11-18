@@ -11,6 +11,12 @@
         - [ ] polymorphism
         - [ ] abstraction
         - [ ] inheritence
+    - [ ] OOP explained with a car analogy
+        - [ ] the objects: Vahicle made up of NumberOfWheels, MPG, etc.
+        - [ ] the methods: Drive(), Refuel()
+        - [ ] child classes inherit from Vehicle and define specific vehicle types (Truck, Car, Motorcycle, etc.)
+            - [ ] each child class has additional fields, including CarType enum for cars, TowingCapacity for trucks, etc.
+            - [ ] the contrustor for each child class defines a default NumberOfWheels
     - [ ] what is CLR?
         - it manages running the code and does garbage collection, etc.
     - [ ] managed vs. unmanaged code
