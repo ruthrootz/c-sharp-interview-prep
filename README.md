@@ -1,22 +1,20 @@
 # C#/.NET interview prep
 
 - [x] follow [API tutorial](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client) and create my own client-side console app
-- [ ] go through [interview questions](https://www.interviewbit.com/c-sharp-interview-questions)
-- [ ] take [practice test](https://www.interviewbit.com/c-sharp-interview-questions/#c#-interview-mcqs)
 - [ ] go through more [interview questions](https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions)
 - [ ] explain the concepts in writing
 
     - [ ] four OOP principles
-        - [ ] encapsulation
-        - [ ] polymorphism
-        - [ ] abstraction
-        - [ ] inheritance
-    - [ ] OOP explained with a car analogy
-        - [ ] the objects: Vehicle made up of NumberOfWheels, MPG, etc.
-        - [ ] the methods: Drive(), Refuel()
-        - [ ] child classes inherit from Vehicle and define specific vehicle types (Truck, Car, Motorcycle, etc.)
-            - [ ] each child class has additional fields, including CarType enum for cars, TowingCapacity for trucks, etc.
-            - [ ] the constructor for each child class defines a default NumberOfWheels
+        - encapsulation
+        - polymorphism
+        - abstraction
+        - inheritance
+    - [x] OOP explained with a car analogy
+        - the objects: Vehicle made up of NumberOfWheels, MPG, etc.
+        - the methods: Drive(), Refuel()
+        - child classes inherit from Vehicle and define specific vehicle types (Truck, Car, Motorcycle, etc.)
+            - each child class has additional fields, including CarType enum for cars, TowingCapacity for trucks, etc.
+            - the constructor for each child class defines a default NumberOfWheels
     - [ ] what is CLR?
         - it manages running the code and does garbage collection, etc.
     - [ ] managed vs. unmanaged code
