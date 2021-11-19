@@ -7,7 +7,7 @@
     - [ ] types of programming
         - declerative: *what* to execute
         - imperative: *how* to execute
-        - procedural/structured: defines steps
+        - procedural/structured: defines each step of the program
         - functional: avoids state and mutable data
     - [ ] four OOP principles
         - encapsulation
