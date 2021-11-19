@@ -5,10 +5,10 @@
 - [ ] explain the concepts in writing
 
     - [ ] types of programming
-        - declerative
-        - imperative
-        - procedural/structured
-        - functional
+        - declerative: *what* to execute
+        - imperative: *how* to execute
+        - procedural/structured: defines steps
+        - functional: avoids state and mutable data
     - [ ] four OOP principles
         - encapsulation
         - polymorphism
