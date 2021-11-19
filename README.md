@@ -5,6 +5,10 @@
 - [ ] explain the concepts in writing
 
     - [ ] types of programming
+        - declerative
+        - imperative
+        - procedural/structured
+        - functional
     - [ ] four OOP principles
         - encapsulation
         - polymorphism
