@@ -4,6 +4,7 @@
 - [ ] go through more [interview questions](https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions)
 - [ ] explain the concepts in writing
 
+    - [ ] types of programming
     - [ ] four OOP principles
         - encapsulation
         - polymorphism
