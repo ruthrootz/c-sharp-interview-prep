@@ -1,14 +1,14 @@
 # C#/.NET interview prep
 
 - [x] types of programming
-    - declerative: *what* to execute
+    - declarative: *what* to execute
     - imperative: *how* to execute
     - procedural/structured: defines each step of the program
     - functional: avoids state and mutable data
 - [x] four OOP principles
     - encapsulation: each instance of an object has its own protected data
-    - abstraction: you don't have to know how the class works, jsut what you can do with it
-    - inheritance: classes can inheret other classes in order to not duplicate methods/properties that multiple classes need
+    - abstraction: you don't have to know how the class works, just what you can do with it
+    - inheritance: classes can inherit other classes in order to not duplicate methods/properties that multiple classes need
     - polymorphism: a child class can be used just like the parent class (e.g. each class that inherets from Vehicle will have a drive() function that does what's expected)
 - [x] OOP explained with a car analogy
     - the objects: Vehicle made up of NumberOfWheels, MPG, etc.
