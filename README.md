@@ -25,22 +25,40 @@
     - an abstract can have defined methods that can be overrideen by the inheriting class
     - interfaces don't implement methods, they have to be each implemented in the inhereting classes
 - [ ] struct vs. class
+    - used to define your own value type
+    - they're technically objects, but they act like value types
 - [x] ref vs. out
     - ref designates an argument as a reference value, so the object doesn't have to be returned, it's changed in the function
     - out takes a variable (that doesn't have to be instantiated) and assigns whatever the return value is to that variable
-- [ ] what are extension methods?
+- [x] what are extension methods?
+    - you can define static methods to add to an existing class
 - [ ] what are generics?
+    - 
 - [ ] list the accessibility modifiers
-- [ ] what is a virtual method?
-- [ ] value vs. reference types
-- [ ] does C# support multiple inheritance? if not, what's a work-around for that?
-- [ ] what is boxing and unboxing?
+    - public
+    - private
+    - protected: only classes that inherit can use them
+- [x] what is a virtual method?
+    - mark a method as allowed to be overriden
+- [x] value vs. reference types
+    - reference types live in memory and variables point to the objects
+    - value types live in the stack
+- [x] does C# support multiple inheritance? if not, what's a work-around for that?
+    - no
+    - you can use multiple interfaces
+    - you can chain classes to inherit from each other
+- [x] what is boxing and unboxing?
+    - boxing: value -> reference type
+    - unboxing: reference -> value with explicit conversion
 - [ ] what are partial classes?
 - [ ] what are sealed classes?
 - [ ] late vs. early binding
 - [ ] what are indexers?
 - [ ] == vs. Equals()
-- [ ] is vs. as operators
+    - 
+- [x] is vs. as operators
+    - is checks compatibility
+    - as forces the object to be another class
 - [ ] what are different ways a method can be overloaded?
 - [ ] what is reflection?
 - [ ] const vs. readonly
