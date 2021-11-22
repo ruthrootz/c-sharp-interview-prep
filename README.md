@@ -8,8 +8,8 @@
 - [x] four OOP principles
     - encapsulation: each instance of an object has its own protected data
     - abstraction: you don't have to know how the class works, just what you can do with it
-    - inheritance: classes can inherit other classes in order to not duplicate methods/properties that multiple classes need
-    - polymorphism: a child class can be used just like the parent class (e.g. each class that inherets from Vehicle will have a drive() function that does what's expected)
+    - inheritance: classes can inherit other classes in order not to duplicate methods/properties across multiple classes
+    - polymorphism: use the same logic for multiple types, e.g. generics
 - [x] OOP explained with a car analogy
     - the objects: Vehicle made up of NumberOfWheels, MPG, etc.
     - the methods: Drive(), Refuel()
@@ -19,9 +19,11 @@
 - [x] what is CLR?
     - it manages running the code and does garbage collection, etc.
 - [x] managed vs. unmanaged code
-    - managed code is code that is managed by the CLR during runtime
-    - unmanaged code is not (duh)
+    - managed code, like C#, is code that is managed by the CLR during runtime
+    - unmanaged code, like C, is not (duh)
 - [ ] abstract vs. interface
+    - an abstract can have defined methods that can be overrideen by the inheriting class
+    - interfaces don't implement methods, they have to be each implemented in the inhereting classes
 - [ ] struct vs. class
 - [x] ref vs. out
     - ref designates an argument as a reference value, so the object doesn't have to be returned, it's changed in the function
