@@ -22,8 +22,8 @@
     - managed code, like C#, is code that is managed by the CLR during runtime
     - unmanaged code, like C, is not (duh)
 - [ ] abstract vs. interface
-    - an abstract can have defined methods that can be overrideen by the inheriting class
-    - interfaces don't implement methods, they have to be each implemented in the inhereting classes
+    - an abstract can have defined methods that can be overridden by the inheriting class
+    - interfaces don't implement methods, they have to be each implemented in the inheriting classes
 - [ ] struct vs. class
     - used to define your own value type
     - they're technically objects, but they act like value types
@@ -39,7 +39,7 @@
     - private
     - protected: only classes that inherit can use them
 - [x] what is a virtual method?
-    - mark a method as allowed to be overriden
+    - mark a method as allowed to be overridden
 - [x] value vs. reference types
     - reference types live in memory and variables point to the objects
     - value types live in the stack
@@ -55,7 +55,7 @@
 - [ ] late vs. early binding
 - [ ] what are indexers?
 - [x] == vs. Equals()
-    - with reference objects, == checks if the addresses are the same, if the vaariables point to the same object
+    - with reference objects, == checks if the addresses are the same, if the variables point to the same object
     - Equals() checks if the values of the objects are the same
 - [x] is vs. as operators
     - is checks compatibility
