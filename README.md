@@ -21,10 +21,10 @@
 - [x] managed vs. unmanaged code
     - managed code, like C#, is code that is managed by the CLR during runtime
     - unmanaged code, like C, is not (duh)
-- [ ] abstract vs. interface
+- [ x abstract vs. interface
     - an abstract can have defined methods that can be overridden by the inheriting class
     - interfaces don't implement methods, they have to be each implemented in the inheriting classes
-- [ ] struct vs. class
+- [x] struct vs. class
     - used to define your own value type
     - they're technically objects, but they act like value types
 - [x] ref vs. out
@@ -33,8 +33,7 @@
 - [x] what are extension methods?
     - you can define static methods to add to an existing class
 - [ ] what are generics?
-    - 
-- [ ] list the accessibility modifiers
+- [x] list the accessibility modifiers
     - public
     - private
     - protected: only classes that inherit can use them
@@ -53,6 +52,7 @@
 - [ ] what are partial classes?
 - [ ] what are sealed classes?
 - [ ] late vs. early binding
+    - 
 - [ ] what are indexers?
 - [x] == vs. Equals()
     - with reference objects, == checks if the addresses are the same, if the variables point to the same object
@@ -62,7 +62,9 @@
     - as forces the object to be another class
 - [ ] what are different ways a method can be overloaded?
 - [ ] what is reflection?
+    - 
 - [ ] const vs. readonly
+    - 
 - [ ] String vs. StringBuilder
 - [ ] IEnumerable vs. IQueryable
 - [ ] what is LINQ?
@@ -70,12 +72,16 @@
 - [ ] what are indexers?
 - [ ] dispose vs. finalize
 - [ ] what are delegates?
+    - 
 - [ ] what is a multicast delegate?
 - [ ] what is constructor chaining?
 - [ ] Array.CopyTo() vs. Array.Clone()
 - [ ] throw exception vs. throw clause
 - [ ] what is an object pool in .NET?
 - [ ] what is serialization?
+    - 
 - [ ] describe the singleton design pattern
 - [ ] describe the MVC pattern
+    - 
 - [ ] describe the design pattern we use at work
+    - 
