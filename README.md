@@ -21,9 +21,10 @@
 - [x] managed vs. unmanaged code
     - managed code, like C#, is code that is managed by the CLR during runtime
     - unmanaged code, like C, is not (duh)
-- [ x abstract vs. interface
+- [x] abstract vs. interface
     - an abstract can have defined methods that can be overridden by the inheriting class
     - interfaces don't implement methods, they have to be each implemented in the inheriting classes
+    - neither can be instantiated
 - [x] struct vs. class
     - used to define your own value type
     - they're technically objects, but they act like value types
@@ -77,6 +78,4 @@
 - [ ] what is serialization?
 - [ ] describe the singleton design pattern
 - [ ] describe the MVC pattern
-    - 
 - [ ] describe the design pattern we use at work
-    - 
